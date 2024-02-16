@@ -1,0 +1,21 @@
+.cart-container {
+  min-height: 90vh;
+  position: relative;
+}
+.cart-item{
+  padding: 12px 0px;
+  border-bottom: 1px solid #ccc;
+}
+.cart-detail-item{
+  display: flex;
+  justify-content: space-between;
+}
+.checkout-action {
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  padding: 4px 0px;
+}
+.btn-checkout {
+  width: 100%;
+}

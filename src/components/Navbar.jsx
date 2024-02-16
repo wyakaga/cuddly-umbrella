@@ -11,7 +11,7 @@ const NavbarComponent = () => {
         dark
       >
         <NavbarBrand href="/" data-testid="app-title">
-          Tokolontong
+          Toklontong
         </NavbarBrand>
       </Navbar>
     </div>
